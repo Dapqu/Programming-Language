@@ -1,0 +1,18 @@
+plc/homework/CEN3031Tests.java
+ plc.homework.CEN3031Tests
+plc/examples/AccountTests.java
+ plc.examples.AccountTests
+plc/project/LexerTests.java
+ plc.project.LexerTests
+plc/project/InterpreterTests.java
+ plc.project.InterpreterTests
+plc/project/AnalyzerTests.java
+ plc.project.AnalyzerTests
+plc/homework/RegexTests.java
+ plc.homework.RegexTests
+plc/project/GeneratorTests.java
+ plc.project.GeneratorTests
+plc/project/ParserExpressionTests.java
+ plc.project.ParserExpressionTests
+plc/project/ParserTests.java
+ plc.project.ParserTests
